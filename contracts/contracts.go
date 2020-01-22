@@ -1,7 +1,7 @@
 package contracts
 
 import (
-	tzc "github.com/alex-dodich/go-tezos/client"
+	tzc "github.com/DefinitelyNotAGoat/go-tezos/v2/client"
 	"github.com/pkg/errors"
 )
 

@@ -1,8 +1,8 @@
 package account
 
 import (
-	"github.com/alex-dodich/go-tezos/block"
-	"github.com/alex-dodich/go-tezos/snapshot"
+	"github.com/DefinitelyNotAGoat/go-tezos/v2/block"
+	"github.com/DefinitelyNotAGoat/go-tezos/v2/snapshot"
 )
 
 type snapshotServiceMock struct{}
