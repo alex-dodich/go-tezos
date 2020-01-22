@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/DefinitelyNotAGoat/go-tezos)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/alex-dodich/go-tezos)
 # A Tezos Go Library
 
 Go Tezos is a GoLang driven library for your Tezos node. 
@@ -7,7 +7,7 @@ Go Tezos is a GoLang driven library for your Tezos node.
 
 Get goTezos 
 ```
-go get github.com/DefinitelyNotAGoat/go-tezos
+go get github.com/alex-dodich/go-tezos
 ```
 
 ## Quick Start 
@@ -40,7 +40,7 @@ package main
 
 import (
 	"fmt"
-	goTezos "github.com/DefinitelyNotAGoat/go-tezos"
+	goTezos "github.com/alex-dodich/go-tezos"
 )
 
 func main() {
@@ -67,7 +67,7 @@ func main() {
 ```
 
 ### More Documentation
-See [github pages](https://definitelynotagoat.github.io/go-tezos/v2/)
+See [github pages](https://alex-dodich.github.io/go-tezos/v2/)
 
 ## Contributing
 

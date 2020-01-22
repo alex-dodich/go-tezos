@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	tzc "github.com/DefinitelyNotAGoat/go-tezos/v2/client"
+	tzc "github.com/alex-dodich/go-tezos/v2/client"
 )
 
 // NodeService is a service for node related functions
